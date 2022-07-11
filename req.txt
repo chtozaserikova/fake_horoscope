@@ -1,0 +1,16 @@
+requests
+bs4
+pandas
+numpy
+matplotlib
+selenium
+loguru
+pymorphy2
+tensorflow
+seaborn 
+gensim
+sklearn
+umap
+transformers
+nltk
+spacy
